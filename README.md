@@ -70,7 +70,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
   </a>
 
-  <a href="https://www.kaggle.com/your-kaggle-username" target="_blank">
+  <a href="https://www.kaggle.com/pshalinip" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" height="45" />
   </a>
 
