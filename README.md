@@ -14,7 +14,6 @@
 🎓 Passionate developer learning & building every day  
 ⚡ Love solving problems & contributing to open-source  
 💡 Interested in Full-Stack Development & AI  
-📫 Reach me at: **pshalinip2004@gmail.com**
 
 ---
 
@@ -49,7 +48,7 @@
 
 <p align="center">
   <!-- same icons you provided but centered + cleaner -->
-  <img src="https://skillicons.dev/icons?i=python,c,html,css,js,react,nodejs,bootstrap,mysql,mongodb,php,django,tensorflow,pytorch,sklearn,opencv,sqlite,Machine Learning,Deep Learning,AI" />
+  <img src="https://skillicons.dev/icons?i=python,c,html,css,js,react,nodejs,bootstrap,mysql,sql,mongodb,php,django,tensorflow,pytorch,sklearn,opencv,sqlite" />
 </p>
 
 ---
@@ -65,7 +64,7 @@
 
 ## 🔗 Connect With Me
 
-<p style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+<p algin="center">
 
   <a href="https://linkedin.com/in/shalini--pandey" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
@@ -81,12 +80,3 @@
 
 </p>
 
-
----
-
-## 🎨 Footer Banner
-<p align="center">
-  <img src="assets/dino.gif" width="600" />
-</p>
-
----
