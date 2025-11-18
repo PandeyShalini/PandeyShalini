@@ -13,14 +13,13 @@
 ## 🧿 **About Me**
 🎓 Passionate developer learning & building every day  
 ⚡ Love solving problems & contributing to open-source  
-💡 Interested in Full-Stack Development & AI  
-📫 Reach me at: **pshalinip2004@gmail.com**
+💡 Interested in Full-Stack Development & AI 
 
 ---
 
 ## 📊 **GitHub Badges**
 
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=PandeyShalini&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
   <img src="https://img.shields.io/github/followers/PandeyShalini?style=for-the-badge&color=brightgreen" />
   <img src="https://img.shields.io/github/stars/PandeyShalini?style=for-the-badge&color=yellow" />
@@ -36,10 +35,10 @@
 <img src="https://github-readme-stats.vercel.app/api?username=PandeyShalini&show_icons=true&theme=radical" height="170" />
 
 ### 🔥 Streak Stats  
-<img src="https://streak-stats.demolab.com?user=PandeyShalini&theme=radical" height="170" />
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=PandeyShalini&theme=radical" height="170" />
 
 ### 📈 Contribution Graph  
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PandeyShalini&theme=react-dark" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PandeyShalini&theme=react-radical" />
 
 </div>
 
@@ -65,22 +64,25 @@
 
 ## 🔗 Connect With Me
 
-<p align="left">
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+
   <a href="https://linkedin.com/in/shalini--pandey" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
   </a>
-</p>
+
+  <a href="https://www.kaggle.com/your-kaggle-username" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" height="45" />
+  </a>
+
+  <a href="https://github.com/PandeyShalini" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="45" />
+  </a>
+
+</div>
 
 ---
 
-## 📝 Latest GitHub Activity
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PandeyShalini&theme=github" />
-</p>
-
----
-
-## 🎨 Footer Banner
+## 🎨 Footer
 <p align="center">
   <img src="assets/dino.gif" width="600" />
 </p>
