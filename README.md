@@ -66,15 +66,15 @@
 
 <p align="center">
 
-  <a href="https://linkedin.com/in/shalini--pandey" target="_blank">
+  <a href="https://linkedin.com/in/shalini--pandey" target="_blank">&nbsp; &nbsp;&nbsp;
     <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
   </a>
 
-  <a href="https://www.kaggle.com/pshalinip" target="_blank">
+  <a href="https://www.kaggle.com/pshalinip" target="_blank">&nbsp;&nbsp;&nbsp;
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" height="45" />
   </a>
 
-  <a href="https://github.com/PandeyShalini" target="_blank">
+  <a href="https://github.com/PandeyShalini" target="_blank">&nbsp;&nbsp;&nbsp;
     <img src="https://skillicons.dev/icons?i=github" height="45" />
   </a>
 
