@@ -49,7 +49,7 @@
 
 <p align="center">
   <!-- same icons you provided but centered + cleaner -->
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,react,nodejs,bootstrap,mysql,mongodb,php,django,tensorflow,pytorch,sklearn,opencv,pandas,sqlite" />
+  <img src="https://skillicons.dev/icons?i=python,c,html,css,js,react,nodejs,bootstrap,mysql,mongodb,php,django,tensorflow,pytorch,sklearn,opencv,sqlite,Machine Learning,Deep Learning,AI" />
 </p>
 
 ---
@@ -65,7 +65,7 @@
 
 ## 🔗 Connect With Me
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+<p style="display: flex; justify-content: center; align-items: center; gap: 20px;">
 
   <a href="https://linkedin.com/in/shalini--pandey" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
@@ -79,7 +79,7 @@
     <img src="https://skillicons.dev/icons?i=github" height="45" />
   </a>
 
-</div>
+</p>
 
 
 ---
