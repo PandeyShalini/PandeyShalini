@@ -48,7 +48,7 @@
 
 <p align="center">
   <!-- same icons you provided but centered + cleaner -->
-  <img src="https://skillicons.dev/icons?i=python,c,html,css,js,react,nodejs,bootstrap,mysql,sql,mongodb,php,django,tensorflow,pytorch,sklearn,opencv,sqlite" />
+  <img src="https://skillicons.dev/icons?i=python,c,html,css,js,react,nodejs,bootstrap,mysql,mongodb,php,django,tensorflow,pytorch,sklearn,opencv,sqlite" />
 </p>
 
 ---
@@ -64,7 +64,7 @@
 
 ## 🔗 Connect With Me
 
-<p algin="center">
+<p align="center">
 
   <a href="https://linkedin.com/in/shalini--pandey" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
