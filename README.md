@@ -57,7 +57,7 @@
 
 🟣 **2024 – Present** → Exploring AI/ML + Full-Stack  
 🔵 **2023 – 2024** → Built multiple web apps using Django & MERN  
-🟢 **2022 – 2023** → Started learning programming (C, Python)  
+🟢 **2022 – 2023** → Started learning programming (C,Php,Python)  
 🟡 **Earlier** → Curiosity about how applications work sparked my journey  
 
 ---
