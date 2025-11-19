@@ -13,7 +13,7 @@
 ## 🧿 **About Me**
 🎓 Passionate developer learning & building every day  
 ⚡ Love solving problems & contributing to open-source  
-💡 Interested in Full-Stack Development & AI  
+💡 Interested in Full-Stack Development & AI & ML
 
 ---
 
