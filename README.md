@@ -54,13 +54,25 @@
 
 ### 📊 GitHub Stats & Graphs
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=PandeyShalini&show_icons=true&bg_color=0b0f19&title_color=38bdf8&icon_color=0ea5e9&text_color=c9d1d9&border_color=1e293b" alt="GitHub Stats" width="49%"/>
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=PandeyShalini&background=0b0f19&ring=1e293b&fire=38bdf8&currStreakNum=c9d1d9&currStreakLabel=0ea5e9&sideNums=c9d1d9&sideLabels=0ea5e9&dates=c9d1d9&border=1e293b" alt="GitHub Streak" width="49%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=PandeyShalini&show_icons=true&bg_color=0b0f19&title_color=38bdf8&icon_color=0ea5e9&text_color=c9d1d9&border_color=1e293b">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=PandeyShalini&show_icons=true&bg_color=ffffff&title_color=0369a1&icon_color=0ea5e9&text_color=424a53&border_color=d0d7de">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=PandeyShalini&show_icons=true&bg_color=0b0f19&title_color=38bdf8&icon_color=0ea5e9&text_color=c9d1d9&border_color=1e293b" alt="GitHub Stats" width="49%"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=PandeyShalini&background=0b0f19&ring=1e293b&fire=38bdf8&currStreakNum=c9d1d9&currStreakLabel=0ea5e9&sideNums=c9d1d9&sideLabels=0ea5e9&dates=c9d1d9&border=1e293b">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=PandeyShalini&background=ffffff&ring=d0d7de&fire=0ea5e9&currStreakNum=424a53&currStreakLabel=0369a1&sideNums=424a53&sideLabels=0369a1&dates=424a53&border=d0d7de">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=PandeyShalini&background=0b0f19&ring=1e293b&fire=38bdf8&currStreakNum=c9d1d9&currStreakLabel=0ea5e9&sideNums=c9d1d9&sideLabels=0ea5e9&dates=c9d1d9&border=1e293b" alt="GitHub Streak" width="49%"/>
+</picture>
 
 <br/>
 
 <!-- 📈 Contribution Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PandeyShalini&bg_color=0b0f19&color=c9d1d9&line=0ea5e9&point=38bdf8&title_color=38bdf8" alt="Contribution graph" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=PandeyShalini&bg_color=0b0f19&color=c9d1d9&line=0ea5e9&point=38bdf8&title_color=38bdf8">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=PandeyShalini&bg_color=ffffff&color=424a53&line=0ea5e9&point=0369a1&title_color=0369a1">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PandeyShalini&bg_color=0b0f19&color=c9d1d9&line=0ea5e9&point=38bdf8&title_color=38bdf8" alt="Contribution graph" width="100%"/>
+</picture>
 
 <br/>
 
