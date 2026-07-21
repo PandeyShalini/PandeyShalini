@@ -11,7 +11,7 @@
 
 <br/>
 
-<table align="center" border="1" width="100%">
+<table align="center" border="1">
 <tr>
 <td width="38%" align="center" valign="middle">
 
@@ -19,7 +19,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/shalini-lanyard.svg?v=1">
   <source media="(prefers-color-scheme: light)" srcset="./assets/shalini-lanyard-light.svg?v=1">
-  <img src="./assets/shalini-lanyard.svg?v=1" alt="Shalini Pandey ID badge" width="100%"/>
+  <img src="./assets/shalini-lanyard.svg?v=1" alt="Shalini Pandey ID badge" width="330"/>
 </picture>
 
 </td>
@@ -29,10 +29,10 @@
 
 | 💼 Contribution Area      | 🚀 Impact & Details                                                                   |
 | :------------------------ | :------------------------------------------------------------------------------------ |
-| 🔀 **Pull Requests**      | Actively created and merged multiple PRs in organization-owned repositories           |
-| 🐞 **Bug Fixes**          | Resolved issues related to application logic, UI fixes, and performance improvements  |
-| 🤝 **Team Collaboration** | Worked effectively using proper Git workflow, code reviews, and issue tracking        |
-| 🏢 **Private Repos**      | Contributions made to private organization repositories (not visible on public graph) |
+| 🔀 **Pull Requests**      | Actively created and merged multiple PRs<br>in organization-owned repositories           |
+| 🐞 **Bug Fixes**          | Resolved issues related to application logic,<br>UI fixes, and performance improvements  |
+| 🤝 **Team Collaboration** | Worked effectively using proper Git workflow,<br>code reviews, and issue tracking        |
+| 🏢 **Private Repos**      | Contributions made to private organization<br>repositories (not visible on public graph) |
 
 <br/>
 
