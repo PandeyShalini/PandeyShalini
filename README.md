@@ -54,7 +54,7 @@
 
 ### 📊 GitHub Stats & Graphs
 
-<img src="https://readme-stats-github.vercel.app/api?username=PandeyShalini&show_icons=true&bg_color=0b0f19&title_color=38bdf8&icon_color=0ea5e9&text_color=c9d1d9&border_color=1e293b" alt="GitHub Stats" width="49%"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=PandeyShalini&show_icons=true&bg_color=0b0f19&title_color=38bdf8&icon_color=0ea5e9&text_color=c9d1d9&border_color=1e293b" alt="GitHub Stats" width="49%"/>
 <img src="https://github-readme-streak-stats-eight.vercel.app/?user=PandeyShalini&background=0b0f19&ring=1e293b&fire=38bdf8&currStreakNum=c9d1d9&currStreakLabel=0ea5e9&sideNums=c9d1d9&sideLabels=0ea5e9&dates=c9d1d9&border=1e293b" alt="GitHub Streak" width="49%"/>
 
 <br/>
